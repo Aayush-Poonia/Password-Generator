@@ -33,16 +33,16 @@ It is more secure than the `random` module.
 
 ## 💡 Example Output
 
-Enter password length: 10
-Your secure password is: aT9#kL2!pQ
+Enter password length: 10.
+Your secure password is: aT9#kL2!pQ.
 
 ## 🎯 Learning Outcomes
 
-1.Understanding loops in Python
-2.Working with user input
-3.Using built-in modules (secrets, string)
-4.Basic cybersecurity concept: secure randomness
-5.String handling in Python
+1.Understanding loops in Python.
+2.Working with user input.
+3.Using built-in modules (secrets, string).
+4.Basic cybersecurity concept: secure randomness.
+5.String handling in Python.
 
 
 ## 📌 Future Improvements
