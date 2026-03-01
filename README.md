@@ -30,31 +30,29 @@ It is more secure than the `random` module.
 3. It randomly selects characters using `secrets.choice()`.
 4. The final secure password is displayed.
 
-💡 Example Output
+
+## 💡 Example Output
+
 Enter password length: 10
 Your secure password is: aT9#kL2!pQ
-🎯 Learning Outcomes
 
-Understanding loops in Python
+## 🎯 Learning Outcomes
 
-Working with user input
+1.Understanding loops in Python
+2.Working with user input
+3.Using built-in modules (secrets, string)
+4.Basic cybersecurity concept: secure randomness
+5.String handling in Python
 
-Using built-in modules (secrets, string)
 
-Basic cybersecurity concept: secure randomness
+## 📌 Future Improvements
 
-String handling in Python
+- Add password strength checker
+- Allow user to choose character types
+- Build GUI version using Tkinter
+- Convert into a web app using Flask
 
-📌 Future Improvements
 
-Add password strength checker
-
-Allow user to choose character types
-
-Build GUI version using Tkinter
-
-Convert into a web app using Flask
-
-📄 License
+## 📄 License
 
 This project is created for educational and learning purposes.
